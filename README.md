@@ -1,0 +1,2 @@
+# Bitnami-Magento
+Bitnami-Magento
