@@ -20,7 +20,7 @@ Story 17: Accès au panier
 Deuxième sprint:
 Story 21: Trier les articles
 Test 1: Trier avec critères default
-Page de la catégorie "Sports"
+Je suis sur la page de la catégorie "Sports"
 ![image](https://github.com/user-attachments/assets/51c6461d-0c05-4ab7-85cb-5edefcc003ed)
 Clique la liste déroulante
 ![image](https://github.com/user-attachments/assets/f1d847f1-ae30-484d-84eb-1e7021192bc1)
@@ -28,3 +28,13 @@ Clique un critère souhaité "Price"
 ![image](https://github.com/user-attachments/assets/a6444677-cb9a-4324-aabc-95153d1cbe63)
 La page de la catégorie "Sports" "refresh" et les articles sont triés par le prix
 ![image](https://github.com/user-attachments/assets/65f70552-a8ea-42ff-9422-8eb69bc68ce8)
+
+Test 2: Trier par recherche
+Je suis sur la page d'accueil
+![image](https://github.com/user-attachments/assets/fb12482d-6c27-4917-a7a5-b36349156d7f)
+Je tappe le nom de l'article que je souhaite dans la barre de recherche "Balle"
+![image](https://github.com/user-attachments/assets/e2332a8e-9ab1-45d5-acb1-79cb2a633468)
+Je tappe enter et je suis dirigé vers une page qui affiche les résultats de ma recherche
+![image](https://github.com/user-attachments/assets/923e9d9d-df47-4928-8b6c-c0fd3f3e2129)
+
+
