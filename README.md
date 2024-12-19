@@ -1,6 +1,7 @@
 # Bitnami-Magento
 Bitnami-Magento
-Storys Premier Sprint:
+Premier Sprint:
+Stories:
 Story 7: Accès visiteur sur les articles
 ![image](https://github.com/user-attachments/assets/f8dd5dbe-28cc-4456-850f-3cda96a8e382)
 Story 9: S'inscrire
@@ -15,3 +16,15 @@ Story 11: Système de payement
 Storys à valider:
 Story 17: Accès au panier
 ![image](https://github.com/user-attachments/assets/b0eb5c62-5679-493b-868e-66fa427f168b)
+
+Deuxième sprint:
+Story 21: Trier les articles
+Test 1: Trier avec critères default
+Page de la catégorie "Sports"
+![image](https://github.com/user-attachments/assets/51c6461d-0c05-4ab7-85cb-5edefcc003ed)
+Clique la liste déroulante
+![image](https://github.com/user-attachments/assets/f1d847f1-ae30-484d-84eb-1e7021192bc1)
+Clique un critère souhaité "Price"
+![image](https://github.com/user-attachments/assets/a6444677-cb9a-4324-aabc-95153d1cbe63)
+La page de la catégorie "Sports" "refresh" et les articles sont triés par le prix
+![image](https://github.com/user-attachments/assets/65f70552-a8ea-42ff-9422-8eb69bc68ce8)
